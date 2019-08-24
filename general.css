@@ -1,0 +1,7 @@
+.lroman {
+    list-style-type: upper-roman;
+}
+
+.carres {
+    list-style: square;
+}
